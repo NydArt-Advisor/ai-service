@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const BDD_SERVICE_URL = process.env.BDD_SERVICE_URL || 'http://localhost:5001/api';
+const BDD_SERVICE_URL = process.env.BDD_SERVICE_URL;
 
 const axiosInstance = axios.create({
     baseURL: BDD_SERVICE_URL,
