@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 5000;
 
 // CORS configuration
 const corsOptions = {
-  origin: 'http://localhost:3000', // Frontend URL
+  origin: process.env.FRONTEND_URL, // Frontend URL
   methods: ['GET', 'POST'],
   allowedHeaders: ['Content-Type', 'Authorization'],
   credentials: true
