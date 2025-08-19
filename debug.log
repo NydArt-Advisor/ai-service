@@ -237,3 +237,194 @@
 [2025-08-13T23:51:31.950Z] Error saving to BDD service: Failed to save analysis: No token, authorization denied
 [2025-08-13T23:51:31.951Z] - Error details: Failed to save analysis: No token, authorization denied
 [2025-08-13T23:51:31.952Z] - Continuing with temporary analysis (no database save)
+[2025-08-17T03:53:38.390Z] Auth middleware debug:
+[2025-08-17T03:53:38.391Z] - Auth header present: false
+[2025-08-17T03:53:38.392Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:53:38.392Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:53:38.397Z] Auth middleware debug:
+[2025-08-17T03:53:38.398Z] - Auth header present: false
+[2025-08-17T03:53:38.398Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:53:38.399Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:53:38.400Z] Auth middleware debug:
+[2025-08-17T03:53:38.401Z] - Auth header present: false
+[2025-08-17T03:53:38.401Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:53:38.402Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:53:38.403Z] Auth middleware debug:
+[2025-08-17T03:53:38.403Z] - Auth header present: false
+[2025-08-17T03:53:38.403Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:53:38.403Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:53:38.405Z] Auth middleware debug:
+[2025-08-17T03:53:38.406Z] - Auth header present: false
+[2025-08-17T03:53:38.406Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:53:38.407Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:53:38.459Z] Auth middleware debug:
+[2025-08-17T03:53:38.459Z] - Auth header present: false
+[2025-08-17T03:53:38.459Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:53:38.460Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:53:38.474Z] Auth middleware debug:
+[2025-08-17T03:53:38.475Z] - Auth header present: false
+[2025-08-17T03:53:38.475Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:53:38.476Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:56:07.788Z] Auth middleware debug:
+[2025-08-17T03:56:07.788Z] - Auth header present: false
+[2025-08-17T03:56:07.789Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:56:07.789Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:56:07.818Z] Auth middleware debug:
+[2025-08-17T03:56:07.819Z] - Auth header present: false
+[2025-08-17T03:56:07.820Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:56:07.821Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:56:07.864Z] Auth middleware debug:
+[2025-08-17T03:56:07.865Z] - Auth header present: false
+[2025-08-17T03:56:07.866Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:56:07.867Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:56:08.065Z] Auth middleware debug:
+[2025-08-17T03:56:08.066Z] - Auth header present: false
+[2025-08-17T03:56:08.066Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:56:08.067Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:57:41.685Z] Auth middleware debug:
+[2025-08-17T03:57:41.686Z] - Auth header present: false
+[2025-08-17T03:57:41.687Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:57:41.687Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:57:41.702Z] Auth middleware debug:
+[2025-08-17T03:57:41.702Z] - Auth header present: false
+[2025-08-17T03:57:41.703Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:57:41.703Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:57:41.730Z] Auth middleware debug:
+[2025-08-17T03:57:41.730Z] - Auth header present: false
+[2025-08-17T03:57:41.731Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:57:41.731Z] - No valid auth header, setting req.user = null
+[2025-08-17T03:57:41.816Z] Auth middleware debug:
+[2025-08-17T03:57:41.816Z] - Auth header present: false
+[2025-08-17T03:57:41.817Z] - Auth header starts with Bearer: undefined
+[2025-08-17T03:57:41.817Z] - No valid auth header, setting req.user = null
+[2025-08-17T04:02:08.039Z] Auth middleware debug:
+[2025-08-17T04:02:08.040Z] - Auth header present: false
+[2025-08-17T04:02:08.041Z] - Auth header starts with Bearer: undefined
+[2025-08-17T04:02:08.042Z] - No valid auth header, setting req.user = null
+[2025-08-17T04:02:08.057Z] Auth middleware debug:
+[2025-08-17T04:02:08.057Z] - Auth header present: false
+[2025-08-17T04:02:08.058Z] - Auth header starts with Bearer: undefined
+[2025-08-17T04:02:08.058Z] - No valid auth header, setting req.user = null
+[2025-08-17T04:02:08.083Z] Auth middleware debug:
+[2025-08-17T04:02:08.084Z] - Auth header present: false
+[2025-08-17T04:02:08.084Z] - Auth header starts with Bearer: undefined
+[2025-08-17T04:02:08.085Z] - No valid auth header, setting req.user = null
+[2025-08-17T04:02:08.180Z] Auth middleware debug:
+[2025-08-17T04:02:08.181Z] - Auth header present: false
+[2025-08-17T04:02:08.181Z] - Auth header starts with Bearer: undefined
+[2025-08-17T04:02:08.181Z] - No valid auth header, setting req.user = null
+[2025-08-18T23:59:19.277Z] Auth middleware debug:
+[2025-08-18T23:59:19.279Z] - Auth header present: false
+[2025-08-18T23:59:19.279Z] - Auth header starts with Bearer: undefined
+[2025-08-18T23:59:19.280Z] - No valid auth header, setting req.user = null
+[2025-08-18T23:59:19.294Z] Auth middleware debug:
+[2025-08-18T23:59:19.295Z] - Auth header present: false
+[2025-08-18T23:59:19.295Z] - Auth header starts with Bearer: undefined
+[2025-08-18T23:59:19.296Z] - No valid auth header, setting req.user = null
+[2025-08-18T23:59:19.321Z] Auth middleware debug:
+[2025-08-18T23:59:19.321Z] - Auth header present: false
+[2025-08-18T23:59:19.322Z] - Auth header starts with Bearer: undefined
+[2025-08-18T23:59:19.323Z] - No valid auth header, setting req.user = null
+[2025-08-18T23:59:19.392Z] Auth middleware debug:
+[2025-08-18T23:59:19.392Z] - Auth header present: false
+[2025-08-18T23:59:19.393Z] - Auth header starts with Bearer: undefined
+[2025-08-18T23:59:19.393Z] - No valid auth header, setting req.user = null
+[2025-08-18T23:59:29.510Z] Auth middleware debug:
+[2025-08-18T23:59:29.511Z] - Auth header present: false
+[2025-08-18T23:59:29.511Z] - Auth header starts with Bearer: undefined
+[2025-08-18T23:59:29.512Z] - No valid auth header, setting req.user = null
+[2025-08-18T23:59:29.531Z] Auth middleware debug:
+[2025-08-18T23:59:29.531Z] - Auth header present: false
+[2025-08-18T23:59:29.532Z] - Auth header starts with Bearer: undefined
+[2025-08-18T23:59:29.533Z] - No valid auth header, setting req.user = null
+[2025-08-18T23:59:29.535Z] Auth middleware debug:
+[2025-08-18T23:59:29.535Z] - Auth header present: false
+[2025-08-18T23:59:29.535Z] - Auth header starts with Bearer: undefined
+[2025-08-18T23:59:29.536Z] - No valid auth header, setting req.user = null
+[2025-08-18T23:59:29.537Z] Auth middleware debug:
+[2025-08-18T23:59:29.538Z] - Auth header present: false
+[2025-08-18T23:59:29.538Z] - Auth header starts with Bearer: undefined
+[2025-08-18T23:59:29.538Z] - No valid auth header, setting req.user = null
+[2025-08-18T23:59:35.583Z] === AI Controller Debug ===
+[2025-08-18T23:59:35.584Z] - req.user: null
+[2025-08-18T23:59:35.584Z] - req.user._id: undefined
+[2025-08-18T23:59:35.584Z] - req.headers.authorization present: false
+[2025-08-18T23:59:35.585Z] - No authenticated user, creating temporary analysis
+[2025-08-18T23:59:35.585Z] - req.user: null
+[2025-08-18T23:59:35.585Z] - req.user._id: undefined
+[2025-08-19T00:07:03.024Z] Auth middleware debug:
+[2025-08-19T00:07:03.025Z] - Auth header present: false
+[2025-08-19T00:07:03.026Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:07:03.026Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:07:03.044Z] Auth middleware debug:
+[2025-08-19T00:07:03.044Z] - Auth header present: false
+[2025-08-19T00:07:03.045Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:07:03.045Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:07:03.070Z] Auth middleware debug:
+[2025-08-19T00:07:03.071Z] - Auth header present: false
+[2025-08-19T00:07:03.071Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:07:03.072Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:07:03.198Z] Auth middleware debug:
+[2025-08-19T00:07:03.199Z] - Auth header present: false
+[2025-08-19T00:07:03.199Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:07:03.200Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:07:13.207Z] Auth middleware debug:
+[2025-08-19T00:07:13.207Z] - Auth header present: false
+[2025-08-19T00:07:13.208Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:07:13.208Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:07:13.230Z] Auth middleware debug:
+[2025-08-19T00:07:13.231Z] - Auth header present: false
+[2025-08-19T00:07:13.232Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:07:13.232Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:07:13.235Z] Auth middleware debug:
+[2025-08-19T00:07:13.236Z] - Auth header present: false
+[2025-08-19T00:07:13.237Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:07:13.238Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:07:48.384Z] Auth middleware debug:
+[2025-08-19T00:07:48.385Z] - Auth header present: false
+[2025-08-19T00:07:48.385Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:07:48.385Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:07:48.405Z] Auth middleware debug:
+[2025-08-19T00:07:48.406Z] - Auth header present: false
+[2025-08-19T00:07:48.406Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:07:48.407Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:07:48.444Z] Auth middleware debug:
+[2025-08-19T00:07:48.444Z] - Auth header present: false
+[2025-08-19T00:07:48.445Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:07:48.445Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:07:48.565Z] Auth middleware debug:
+[2025-08-19T00:07:48.566Z] - Auth header present: false
+[2025-08-19T00:07:48.566Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:07:48.567Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:08:23.675Z] Auth middleware debug:
+[2025-08-19T00:08:23.676Z] - Auth header present: false
+[2025-08-19T00:08:23.677Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:08:23.678Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:08:23.694Z] Auth middleware debug:
+[2025-08-19T00:08:23.695Z] - Auth header present: false
+[2025-08-19T00:08:23.695Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:08:23.695Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:08:23.722Z] Auth middleware debug:
+[2025-08-19T00:08:23.723Z] - Auth header present: false
+[2025-08-19T00:08:23.723Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:08:23.724Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:08:23.881Z] Auth middleware debug:
+[2025-08-19T00:08:23.882Z] - Auth header present: false
+[2025-08-19T00:08:23.882Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:08:23.883Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:10:53.525Z] Auth middleware debug:
+[2025-08-19T00:10:53.526Z] - Auth header present: false
+[2025-08-19T00:10:53.526Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:10:53.526Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:10:53.541Z] Auth middleware debug:
+[2025-08-19T00:10:53.541Z] - Auth header present: false
+[2025-08-19T00:10:53.542Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:10:53.543Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:10:53.566Z] Auth middleware debug:
+[2025-08-19T00:10:53.567Z] - Auth header present: false
+[2025-08-19T00:10:53.567Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:10:53.567Z] - No valid auth header, setting req.user = null
+[2025-08-19T00:10:53.671Z] Auth middleware debug:
+[2025-08-19T00:10:53.671Z] - Auth header present: false
+[2025-08-19T00:10:53.672Z] - Auth header starts with Bearer: undefined
+[2025-08-19T00:10:53.672Z] - No valid auth header, setting req.user = null
