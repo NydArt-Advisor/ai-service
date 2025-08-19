@@ -92,6 +92,15 @@ app.use((err, req, res, next) => {
   });
 });
 
+// Export app for testing
+module.exports = app;
+
+// Only start the server if this file is run directly
+if (require.main === module) {
+  app.listen(PORT, () => {
+    console.log(`AI Service running on port ${PORT}`);
+  });
+}
 app.listen(PORT, () => {
   console.log(`AI Service running on port ${PORT}`);
 });
