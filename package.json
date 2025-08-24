@@ -1,11 +1,50 @@
 {
-  "name": "ai-service",
+  "name": "service-ia-darylnyd",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "src/server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "node src/test/simple-test.js",
+    "test:simple": "node src/test/simple-test.js",
+    "test:full": "node src/test/run-tests.js",
+    "test:unit": "node src/test/run-tests.js --unit",
+    "test:integration": "node src/test/run-tests.js --integration",
+    "test:performance": "node src/test/run-tests.js --performance",
+    "test:coverage": "node src/test/run-tests.js --coverage",
+    "test:watch": "node src/test/run-tests.js --watch",
+    "test:file": "node src/test/run-tests.js --file",
+    "lint": "eslint src/ --ext .js",
+    "lint:fix": "eslint src/ --ext .js --fix",
+    "security:audit": "npm audit",
+    "security:fix": "npm audit fix",
+    "docker:build": "docker build -t nydart-advisor/ai-service .",
+    "docker:run": "docker run -p 5003:5003 nydart-advisor/ai-service",
+    "docker:push": "docker push nydart-advisor/ai-service",
+    "ci:test": "npm run lint && npm run security:audit && npm run test:full",
+    "ci:build": "npm run ci:test && npm run docker:build",
+    "ci:deploy": "npm run ci:build && npm run docker:push"
   },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.2",
+    "openai": "^4.100.0",
+    "sharp": "^0.34.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10",
+    "mocha": "^10.2.0",
+    "chai": "^4.3.7",
+    "sinon": "^15.1.0",
+    "supertest": "^6.3.3",
+    "nyc": "^15.1.0"
+  }
 }
